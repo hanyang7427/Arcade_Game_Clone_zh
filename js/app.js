@@ -1,4 +1,6 @@
-// 这是我们的玩家要躲避的敌人 
+
+// 此文件参考了https://zhuanlan.zhihu.com/p/30492515
+// 这是我们的玩家要躲避的敌人
 var Enemy = function(x,y) {
     // Enemy的坐标
     this.x = x;
